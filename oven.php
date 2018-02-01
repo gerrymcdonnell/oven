@@ -1242,21 +1242,21 @@ $svgs = [
                         <div class="col-xs-6">
                             <div class="form-group">
                                 <label for="host">Host</label>
-                                <input type="text" class="form-control" id="host" name="host" tabindex="1" />
+                                <input type="text" class="form-control" id="host" name="host" tabindex="1" value="localhost"/>
                             </div>
                             <div class="form-group">
                                 <label for="username">Username</label>
-                                <input type="text" class="form-control" id="username" name="username" tabindex="3" />
+                                <input type="text" class="form-control" id="username" name="username" tabindex="3" value="root"/>
                             </div>
                         </div>
                         <div class="col-xs-6">
                             <div class="form-group">
                                 <label for="database">Database</label>
-                                <input type="text" class="form-control" id="database" name="database" tabindex="2" />
+                                <input type="text" class="form-control" id="database" name="database" tabindex="2" value="dbhere"/>
                             </div>
                             <div class="form-group">
                                 <label for="password">Password</label>
-                                <input type="password" class="form-control" id="password" name="password" tabindex="4" />
+                                <input type="password" class="form-control" id="password" name="password" tabindex="4" value="password"/>
                             </div>
                         </div>
                     </div>
